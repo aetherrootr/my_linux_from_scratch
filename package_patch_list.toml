@@ -1,0 +1,35 @@
+[Bash_Upstream_Fixes_Patch]
+url = "https://www.linuxfromscratch.org/patches/lfs/12.1/bash-5.2.21-upstream_fixes-1.patch"
+md5 = "2d1691a629c558e894dbb78ee6bf34ef"
+
+[Bzip2_Documentation_Patch]
+url = "https://www.linuxfromscratch.org/patches/lfs/12.1/bzip2-1.0.8-install_docs-1.patch"
+md5 = "6a5ac7e89b791aae556de0f745916f7f"
+
+[Coreutils_Internationalization_Fixes_Patch]
+url = "https://www.linuxfromscratch.org/patches/lfs/12.1/coreutils-9.4-i18n-1.patch"
+md5 = "cca7dc8c73147444e77bc45d210229bb"
+
+[Glibc_FHS_Patch]
+url = "https://www.linuxfromscratch.org/patches/lfs/12.1/glibc-2.39-fhs-1.patch"
+md5 = "9a5997c3452909b1769918c759eff8a2"
+
+[Glibc_Upstream_Fixes_Patch_1]
+url = "https://www.linuxfromscratch.org/patches/downloads/glibc/glibc-2.39-upstream_fix-1.patch"
+md5 = "49fb369a89bdbf52c71f0a084e97ad68"
+
+[Glibc_Upstream_Fixes_Patch_2]
+url = "https://www.linuxfromscratch.org/patches/downloads/glibc/glibc-2.39-upstream_fix-2.patch"
+md5 = "e9f8f23746755bf880772cfa59c1896c"
+
+[Kbd_Backspace_Delete_Fix_Patch]
+url = "https://www.linuxfromscratch.org/patches/lfs/12.1/kbd-2.6.4-backspace-1.patch"
+md5 = "f75cca16a38da6caa7d52151f7136895"
+
+[Readline_Upstream_Fix_Patch]
+url = "https://www.linuxfromscratch.org/patches/lfs/12.1/readline-8.2-upstream_fixes-3.patch"
+md5 = "9ed497b6cb8adcb8dbda9dee9ebce791"
+
+[Sysvinit_Consolidated_Patch]
+url = "https://www.linuxfromscratch.org/patches/lfs/12.1/sysvinit-3.08-consolidated-1.patch"
+md5 = "17ffccbb8e18c39e8cedc32046f3a475"
